@@ -1,0 +1,88 @@
+{
+  "title": "项目展示",
+  "projects": [
+    {
+      "title": "Postcat",
+      "image": "https://camo.githubusercontent.com/deecff1d9e69bf3a687fe5668b21f70e05302c2c73b9e7f48aa05f77025d8294/68747470733a2f2f646174612e656f6c696e6b2e636f6d2f5968337238353164326635353735613038623539333637323064666232363763303637656265333363326663356562",
+      "url": "https://github.com/Postcatlab/postcat"
+    },
+    {
+      "title": "ShipAny 博客模板",
+      "image": "https://files.scarchin.com/images/1757251003973-Xnip2025-09-07_20-16-02.jpg",
+      "url": "https://shipany.ai/templates"
+    },
+    {
+      "title": "DTV 泰国签证 DIY 申请攻略",
+      "image": "https://files.scarchin.com/images/1758423231470-Adobe%20Express%20-%20file%20(1).jpg",
+      "url": "https://xhslink.com/m/693zcHbtKco"
+    },
+    {
+      "title": "猫咪减肥计划",
+      "image": "https://files.scarchin.com/images/1758169842574-httpsgithub.comscarqinlose-cat-weight.png",
+      "url": "https://meow.scarchin.com/"
+    },
+    {
+      "title": "微信读书导出工具",
+      "image": "https://files.scarchin.com/images/1757250709313-unnamed.png",
+      "url": "https://github.com/scarqin/wxread-export"
+    }
+  ],
+  "travelMap": {
+    "title": "旅行地图",
+    "currentLocationLabel": "当前位置"
+  },
+  "timeline": {
+    "title": "时间线",
+    "events": [
+      {
+        "year": "1995",
+        "label": "事件 01",
+        "image": "/imgs/timeline/born.jpeg",
+        "description": "出生于中国重庆。带着对未来世界的好奇和憧憬，开启了这段名为人生的伟大旅程。",
+        "align": "left"
+      },
+      {
+        "year": "2007",
+        "label": "事件 02",
+        "image": "/imgs/timeline/paladin.jpg",
+        "description": "购买了我的第一款游戏 - 仙剑奇侠传",
+        "align": "right"
+      },
+      {
+        "year": "2014",
+        "label": "事件 03",
+        "image": "/imgs/timeline/gdut.jpeg",
+        "description": "开始在广州工业大学学习软件工程专业。",
+        "align": "left"
+      },
+      {
+        "year": "2017",
+        "label": "事件 04",
+        "image": "/imgs/timeline/eolink.png",
+        "description": "加入 Eolink，深入 API 管理和开发工具领域。开始在开发者工具和 API 生态系统中积累专业知识。",
+        "align": "right"
+      },
+      {
+        "year": "2022",
+        "label": "事件 05",
+        "image": "/imgs/timeline/postcat.png",
+        "description": "推出 Postcat 项目，一个开源 API 测试工具，并与 Levi 结婚。这是职业成就和个人幸福的一年。",
+        "align": "left"
+      },
+      {
+        "year": "2024",
+        "label": "事件 06",
+        "image": "/imgs/timeline/buffup.jpeg",
+        "description": "开始探索面向全球市场的应用。开启为全球用户构建产品和服务的旅程。",
+        "align": "right"
+      },
+      {
+        "year": "2025",
+        "label": "事件 07",
+        "image": "/imgs/timeline/logo.png",
+        "description": "拥抱数字游民生活方式：在探索不同文化和环境的同时远程工作。",
+        "align": "left"
+      }
+    ]
+  }
+}

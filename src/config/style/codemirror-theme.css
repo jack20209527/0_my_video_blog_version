@@ -1,0 +1,173 @@
+/* CodeMirror md-mirror theme - adapted from mdnice */
+
+.cm-editor {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.cm-editor .cm-scroller {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.cm-editor .cm-content {
+  padding: 20px;
+}
+
+.cm-editor .cm-line {
+  word-break: break-all;
+}
+
+/* Selection */
+.cm-editor .cm-selectionBackground,
+.cm-editor.cm-focused .cm-selectionBackground {
+  background: #b3d7ff !important;
+}
+
+/* Active line */
+.cm-editor .cm-activeLine {
+  background: #dddcdc;
+}
+
+/* Cursor */
+.cm-editor .cm-cursor {
+  border-left-color: #505050;
+}
+
+/* Gutters */
+.cm-editor .cm-gutters {
+  background: hsl(var(--muted) / 0.3);
+  border-right: 0;
+}
+
+.cm-editor .cm-lineNumbers .cm-gutterElement {
+  color: #b0b0b0;
+}
+
+/* Markdown syntax highlighting */
+.cm-editor .cm-comment {
+  color: #ac002b;
+}
+
+.cm-editor .cm-atom {
+  color: #aa759f;
+}
+
+.cm-editor .cm-number {
+  color: #aa759f;
+}
+
+.cm-editor .cm-property,
+.cm-editor .cm-attribute {
+  color: #90a959;
+}
+
+.cm-editor .cm-keyword {
+  color: #023a52;
+  font-weight: 600;
+}
+
+.cm-editor .cm-string {
+  color: #e46918;
+}
+
+.cm-editor .cm-variable {
+  color: #90a959;
+}
+
+.cm-editor .cm-variable-2 {
+  color: #00695f;
+}
+
+.cm-editor .cm-variable-3 {
+  color: #2e6e8a;
+}
+
+.cm-editor .cm-def {
+  color: #d28445;
+}
+
+.cm-editor .cm-bracket {
+  color: #202020;
+}
+
+.cm-editor .cm-tag {
+  color: #ac4142;
+}
+
+.cm-editor .cm-link {
+  color: #b26a00;
+  text-decoration: underline;
+}
+
+/* Markdown specific - matching mdnice style */
+.cm-editor .cm-heading {
+  color: #202020;
+  font-weight: 700;
+}
+
+.cm-editor .cm-heading1 {
+  font-size: 1.5em;
+}
+
+.cm-editor .cm-heading2 {
+  font-size: 1.3em;
+}
+
+.cm-editor .cm-heading3 {
+  font-size: 1.1em;
+}
+
+.cm-editor .cm-strong {
+  font-weight: 700;
+  color: #202020;
+}
+
+.cm-editor .cm-emphasis {
+  font-style: italic;
+  color: #202020;
+}
+
+.cm-editor .cm-quote {
+  color: #ac002b;
+  font-style: italic;
+}
+
+.cm-editor .cm-monospace {
+  background: rgba(0, 0, 0, 0.05);
+  padding: 2px 4px;
+  border-radius: 3px;
+  color: #e46918;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+}
+
+.cm-editor .cm-url {
+  color: #b26a00;
+  text-decoration: underline;
+}
+
+.cm-editor .cm-list {
+  color: #202020;
+}
+
+/* Dark mode support */
+.dark .cm-editor {
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+.dark .cm-editor .cm-gutters {
+  background: hsl(var(--muted) / 0.3);
+}
+
+.dark .cm-editor .cm-activeLine {
+  background: hsl(var(--muted) / 0.5);
+}
+
+.dark .cm-editor .cm-selectionBackground,
+.dark .cm-editor.cm-focused .cm-selectionBackground {
+  background: hsl(var(--primary) / 0.3) !important;
+}
+
+.dark .cm-editor .cm-cursor {
+  border-left-color: hsl(var(--primary));
+}

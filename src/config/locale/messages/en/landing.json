@@ -1,0 +1,231 @@
+{
+  "header": {
+    "id": "header",
+    "brand": {
+      "title": "Chin",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Chin",
+        "width": 32,
+        "height": 32
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Posts",
+          "url": "/posts"
+        },
+        {
+          "title": "Author",
+          "url": "/author"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Subscribe",
+        "url": "/subscribe",
+        "variant": "outline",
+        "target": "_blank"
+      }
+    ],
+    "user_nav": {
+      "show_name": true,
+      "show_credits": false,
+      "show_sign_out": true,
+      "items": []
+    },
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "id": "hero",
+    "subtitle": "Explore the Soul of",
+    "title": "indie hacker",
+    "author_name": "Scar Chin",
+    "author_role": "All-in-one Engineer | ENFJ",
+    "author_bio": [
+      "I share insights I pick up from making products.",
+      "I write about my thoughts on startups, and life as a digital nomad.",
+      "I see the world as a playground and I'm shaping a life as both a hacker and a painter."
+    ],
+    "author_link": {
+      "title": "Read More",
+      "url": "/author"
+    },
+    "hero_image": {
+      "src": "/imgs/bg/hero-background.png",
+      "alt": "Scar chin",
+      "width": 600,
+      "height": 550
+    },
+    "stats": [
+      {
+        "value": "40",
+        "label": "posts"
+      },
+      {
+        "value": "4",
+        "label": "projects"
+      },
+      {
+        "value": "100$",
+        "label": "mrr"
+      }
+    ]
+  },
+  "projects": {
+    "id": "projects",
+    "title": "ScarChin's Projects",
+    "items": [
+      {
+        "title": "Postcat",
+        "description": "Postcat is a powerful open source, cross-platform API development and testing tool with extension system",
+        "image": {
+          "src": "/imgs/projects/image-1.jpg",
+          "alt": "Postcat"
+        },
+        "url": "https://github.com/Postcatlab/postcat",
+        "github": "Postcatlab/postcat"
+      },
+      {
+        "title": "ShipAny Blog Template",
+        "description": "Build a modern, SEO-friendly blog quickly with ShipAny's ready-to-use Next.js template.",
+        "image": {
+          "src": "/imgs/projects/image-2.jpg",
+          "alt": "ShipAny Blog Template"
+        },
+        "url": "https://shipany.ai/templates"
+      },
+      {
+        "title": "DTV 泰国签证 DIY 申请攻略",
+        "description": "Applying for DTV(Destination Thailand Visa) needs many documents, but self-application is totally doable. This guide helps you apply quickly. I'll also use tech tools, like AI for writing letters and a DTV eligibility checker, so you save time and avoid buying unnecessary materials if you don't qualify.",
+        "image": {
+          "src": "/imgs/projects/image-3.jpg",
+          "alt": "DTV 泰国签证 DIY 申请攻略"
+        },
+        "url": "https://xhslink.com/m/693zcHbtKco"
+      }
+    ],
+    "seeAllLink": {
+      "title": "See all",
+      "url": "/author"
+    }
+  },
+  "subscribe": {
+    "id": "subscribe",
+    "title": "ScarChin's Posts",
+    "description": "Get the latest updates and insights delivered to your inbox",
+    "submit": {
+      "input": {
+        "placeholder": "Enter your email address"
+      },
+      "button": {
+        "title": "Subscribe"
+      },
+      "action": "/api/subscribe"
+    }
+  },
+  "introduce": {
+    "hidden": true
+  },
+  "benefits": {
+    "hidden": true
+  },
+  "usage": {
+    "hidden": true
+  },
+  "features": {
+    "hidden": true
+  },
+  "stats": {
+    "hidden": true
+  },
+  "testimonials": {
+    "hidden": true
+  },
+  "faq": {
+    "hidden": true
+  },
+  "cta": {
+    "hidden": true
+  },
+  "footer": {
+    "id": "footer",
+    "brand": {
+      "title": "ScarChin",
+      "description": "ScarChin is a Builder.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Scar Chin",
+        "width": 44,
+        "height": 44
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "About",
+          "children": [
+            {
+              "title": "Posts",
+              "url": "/posts",
+              "target": "_self"
+            },
+            {
+              "title": "Author",
+              "url": "/author",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Friends",
+          "children": [
+            {
+              "title": "ShipAny",
+              "url": "https://shipany.ai/?ivt=scarqin",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "X",
+          "icon": "Twitter",
+          "url": "https://x.com/scarqin",
+          "target": "_blank"
+        },
+        {
+          "title": "Github",
+          "icon": "Github",
+          "url": "https://github.com/scarqin",
+          "target": "_blank"
+        },
+        {
+          "title": "Email",
+          "icon": "Mail",
+          "url": "mailto:scarqin@gmail.com",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        }
+      ]
+    },
+    "show_theme": true,
+    "show_locale": true
+  }
+}

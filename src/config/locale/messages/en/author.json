@@ -1,0 +1,285 @@
+{
+  "timeline": {
+    "title": "TIMELINE",
+    "events": [
+      {
+        "year": "1995",
+        "label": "EVENT 01",
+        "image": "/imgs/author/time-1.jpg",
+        "description": "Born in Chongqing, China. Starting this grand journey called life with curiosity and wonder about the world ahead.",
+        "align": "left"
+      },
+      {
+        "year": "2007",
+        "label": "EVENT 02",
+        "image": "/imgs/author/time-2.jpg",
+        "description": "Bought my first game - Chinese Paladin (仙剑奇侠传)",
+        "align": "right"
+      },
+      {
+        "year": "2014",
+        "label": "EVENT 03",
+        "image": "/imgs/author/time-3.jpg",
+        "description": "Started studying Software Engineering at Guangzhou University of Technology.",
+        "align": "left"
+      },
+      {
+        "year": "2017",
+        "label": "EVENT 04",
+        "image": "/imgs/author/time-4.jpg",
+        "description": "Joined Eolink, diving into API management and development tools. Started building expertise in developer tools and API ecosystems.",
+        "align": "right"
+      },
+      {
+        "year": "2022",
+        "label": "EVENT 05",
+        "image": "/imgs/author/time-5.jpg",
+        "description": "Launched Postcat project, an open-source API testing tool, and married Levi. A year of both professional achievement and personal happiness.",
+        "align": "left"
+      },
+      {
+        "year": "2024",
+        "label": "EVENT 06",
+        "image": "/imgs/author/time-6.jpg",
+        "description": "Began exploring applications for global markets. Started the journey of building products and services for global audiences.",
+        "align": "right"
+      },
+      {
+        "year": "2025",
+        "label": "EVENT 07",
+        "image": "/imgs/author/time-7.jpg",
+        "description": "Embraced the digital nomad lifestyle: working remotely while exploring different cultures and environments around the world.",
+        "align": "left"
+      }
+    ]
+  },
+  "title": "PROJECTS",
+  "projects": [
+    {
+      "title": "Postcat",
+      "image": "/imgs/projects/image-1.jpg",
+      "url": "https://github.com/Postcatlab/postcat"
+    },
+    {
+      "title": "ShipAny Blog Template",
+      "image": "/imgs/projects/image-2.jpg",
+      "url": "https://shipany.ai/templates"
+    },
+    {
+      "title": "DTV 泰国签证 DIY 申请攻略",
+      "image": "/imgs/projects/image-3.jpg",
+      "url": "https://xhslink.com/m/693zcHbtKco"
+    },
+    {
+      "title": "Cat Weight Loss",
+      "image": "/imgs/projects/image-4.jpg",
+      "url": "https://meow.scarchin.com/"
+    },
+    {
+      "title": "Weread Export",
+      "image": "/imgs/projects/image-5.jpg",
+      "url": "https://github.com/scarqin/wxread-export"
+    }
+  ],
+  "travelMap": {
+    "title": "TRAVEL MAP",
+    "currentLocationLabel": "Current Location",
+    "amapKey": "8e72e1016a216335ee95083f5b9fc2ac",
+    "amapSecurityKey": "28a85f070eabc91938d0b09462db26bc",
+    "locations": [
+      {
+        "name": "哈尔滨",
+        "lng": 126.63,
+        "lat": 45.75,
+        "description": "滑雪"
+      },
+      {
+        "name": "雪乡",
+        "lng": 128.17,
+        "lat": 44.72,
+        "description": "玩雪"
+      },
+      {
+        "name": "延吉",
+        "lng": 129.51,
+        "lat": 42.91,
+        "description": "爬长白山"
+      },
+      {
+        "name": "北京",
+        "lng": 116.4,
+        "lat": 39.9,
+        "description": "出差"
+      },
+      {
+        "name": "京都",
+        "lng": 135.76,
+        "lat": 35.01,
+        "description": "旅游，传统寺庙和文化"
+      },
+      {
+        "name": "东京",
+        "lng": 139.69,
+        "lat": 35.69,
+        "description": "旅游"
+      },
+      {
+        "name": "大阪",
+        "lng": 135.5,
+        "lat": 34.69,
+        "description": "旅游 环球影城、711 的萝卜"
+      },
+      {
+        "name": "西安",
+        "lng": 108.93,
+        "lat": 34.27,
+        "description": "旅游，陕西历史博物馆，各种演出，爬华山"
+      },
+      {
+        "name": "河南",
+        "lng": 113.62,
+        "lat": 34.75,
+        "description": "观看《只有河南》戏剧演出"
+      },
+      {
+        "name": "南京",
+        "lng": 118.78,
+        "lat": 32.04,
+        "description": "旅游"
+      },
+      {
+        "name": "苏州",
+        "lng": 120.62,
+        "lat": 31.30,
+        "description": "出差一个月"
+      },
+      {
+        "name": "上海",
+        "lng": 121.47,
+        "lat": 31.23,
+        "description": "商务出差和工作任务"
+      },
+      {
+        "name": "乌镇",
+        "lng": 120.49,
+        "lat": 30.74,
+        "description": "旅游"
+      },
+      {
+        "name": "杭州",
+        "lng": 120.15,
+        "lat": 30.28,
+        "description": "与 Levi 异地的城市"
+      },
+      {
+        "name": "宁波",
+        "lng": 121.55,
+        "lat": 29.87,
+        "description": "旅游中转"
+      },
+      {
+        "name": "武汉",
+        "lng": 114.30,
+        "lat": 30.59,
+        "description": "旅游，Levi 的大学"
+      },
+      {
+        "name": "重庆",
+        "lng": 106.55,
+        "lat": 29.57,
+        "description": "童年故乡 - 3 岁前生活的地方"
+      },
+      {
+        "name": "川西",
+        "lng": 102.22,
+        "lat": 31.90,
+        "description": "旅游"
+      },
+      {
+        "name": "长沙",
+        "lng": 112.94,
+        "lat": 28.23,
+        "description": "旅游"
+      },
+      {
+        "name": "萍乡",
+        "lng": 113.85,
+        "lat": 27.62,
+        "description": "武功山爬山"
+      },
+      {
+        "name": "厦门",
+        "lng": 118.08,
+        "lat": 24.48,
+        "description": "旅游目的地 - 沿海城市探索"
+      },
+      {
+        "name": "桂林",
+        "lng": 110.28,
+        "lat": 25.28,
+        "description": "旅游，爬山 喀斯特地貌风光"
+      },
+      {
+        "name": "贵州黔西南",
+        "lng": 104.90,
+        "lat": 25.09,
+        "description": "支教地点"
+      },
+      {
+        "name": "南宁",
+        "lng": 108.37,
+        "lat": 22.82,
+        "description": "旅游"
+      },
+      {
+        "name": "海南",
+        "lng": 110.33,
+        "lat": 20.03,
+        "description": "OW 潜水员认证培训"
+      },
+      {
+        "name": "广州",
+        "lng": 113.26,
+        "lat": 23.13,
+        "description": "生活了十年的地方",
+        "isCurrent": true
+      },
+      {
+        "name": "惠城区",
+        "lng": 114.38,
+        "lat": 23.08,
+        "description": "成长的地方"
+      },
+      {
+        "name": "香港",
+        "lng": 114.17,
+        "lat": 22.32,
+        "description": "爬山"
+      },
+      {
+        "name": "PG岛",
+        "lng": 120.95,
+        "lat": 13.50,
+        "description": "潜水"
+      },
+      {
+        "name": "薄荷岛",
+        "lng": 123.85,
+        "lat": 9.65,
+        "description": "旅居"
+      },
+      {
+        "name": "仙本那",
+        "lng": 118.62,
+        "lat": 4.47,
+        "description": "AOW 潜水员认证培训"
+      },
+      {
+        "name": "普吉岛",
+        "lng": 98.39,
+        "lat": 7.88,
+        "description": "潜水"
+      }
+    ]
+  }
+}
